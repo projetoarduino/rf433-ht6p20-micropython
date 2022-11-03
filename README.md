@@ -7,3 +7,6 @@ and direct converted from arduino code
 This code no receive data buttons, i have no idea for resolve this
 
 The address receveid not is correct, because anti-code is not 0101 
+
+
+Thanks for my Brother to help with code Moisés A. Marangoni
